@@ -10,7 +10,8 @@ function Contact() {
 
   return (
     
-    <section id="hire">
+    <section id="contact">
+      <div className='hire'>
       <h1>Contact Me</h1>
 
       <form>
@@ -34,6 +35,7 @@ function Contact() {
 
         <input class="button" type="submit" value="Send" />
       </form>
+      </div>
     </section>
      
   );

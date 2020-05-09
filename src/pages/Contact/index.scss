@@ -39,33 +39,27 @@ $light-grey:lighten($grey, 15%);
 
 $background:#efefef;
 $field-color:#E8E9EA;
+  
 
-
-
-
-
-body {
-	  font-size:62.5%;
-	  color:$grey;
-
-  section {
+.hire {
 	background:white;
     margin:40px auto;
-    border-top:15px solid $blue;
+    border-top:8px solid $blue;
     text-align:center;
   	padding:50px 0 110px;
     width:80%;
-    max-width:1100px;
-    
-    h1 {
-      margin-bottom:40px;
-      font-size:4em;
-      text-transform:uppercase;
-    }
+	max-width:1100px;
+	color:$grey;
   }
-}
 
-// Form
+h1 {
+	margin-bottom:40px;
+	font-size:3em;
+	text-transform:uppercase;
+}
+  
+
+
 form {
 		  @include grid(7);
 

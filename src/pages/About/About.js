@@ -1,18 +1,14 @@
-import React, { useEffect } from "react";
+import React from "react";
 import {Row, Col} from 'react-bootstrap';
 
 
 function About() {
 
-  useEffect(() => {
-    window.scrollTo(0, 300)
-  }, [])
-
   return (
     <Row>
       <Col>
-      <section>
-      <h1>About</h1>
+      <section id="about">
+      <h1 className='text-center'>About</h1>
       <p class="lead mb-5">
         Front-End Web Developer leveraging a background in psychology to build a more intuitive user experience on the
         web.

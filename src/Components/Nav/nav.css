@@ -39,6 +39,7 @@
     background: #fff;
     transition: width 0.3s ease 0s, left 0.3s ease 0s;
     width: 0;
+
   }
   a:hover:after { 
     width: 100%; 
@@ -46,6 +47,6 @@
   }
   @media screen and (max-height: 300px) {
       ul {
-          margin-top: 40px;
+        margin-top: 40px;
       }
   }
