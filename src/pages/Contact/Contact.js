@@ -1,39 +1,34 @@
-import React, {useEffect} from "react";
+import React from "react";
 import './index.scss';
 
 function Contact() {
-
-  useEffect(() => {
-    window.scrollTo(0, 700)
-  }, [])
-
 
   return (
     
     <section id="contact">
       <div className='hire'>
-      <h1>Contact Me</h1>
+      <div className='contactme mb-5'>Contact Me</div>
 
       <form>
-        <div class="field name-box">
+        <div className="field name-box">
           <input type="text" id="name" placeholder="Who Are You?" />
           <label for="name">Name</label>
-          <span class="ss-icon">check</span>
+          <span className="ss-icon">check</span>
         </div>
 
-        <div class="field email-box">
+        <div className="field email-box">
           <input type="text" id="email" placeholder="name@email.com" />
           <label for="email">Email</label>
-          <span class="ss-icon">check</span>
+          <span className="ss-icon">check</span>
         </div>
 
-        <div class="field msg-box">
+        <div className="field msg-box">
           <textarea id="msg" rows="4" placeholder="Your message goes here..." />
           <label for="msg">Msg</label>
-          <span class="ss-icon">check</span>
+          <span className="ss-icon">check</span>
         </div>
 
-        <input class="button" type="submit" value="Send" />
+        <input className="button" type="submit" value="Send" />
       </form>
       </div>
     </section>

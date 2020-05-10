@@ -14,16 +14,16 @@ const MyParallax = () => (
     <MyNav />
       <Parallax bgImage={parallaxImg} strength={700}>
         <div style={{ height: 860, width: 500 }}>
-          <div class="frame">
-            <div class="line left"></div>
-            <div class="line right"></div>
-            <div class="bracket left"></div>
-            <div class="bracket right"></div>
-            <div class="small top">Maydel</div>
-            <div class="big">Developer</div>
-            <div class="small bottom">Rego</div>
-            <div class="hide top"></div>
-            <div class="hide bottom"></div>
+          <div className="frame">
+            <div className="line left"></div>
+            <div className="line right"></div>
+            <div className="bracket left"></div>
+            <div className="bracket right"></div>
+            <div className="small top">Maydel</div>
+            <div className="big">Developer</div>
+            <div className="small bottom">Rego</div>
+            <div className="hide top"></div>
+            <div className="hide bottom"></div>
           </div>
         </div>
       </Parallax>

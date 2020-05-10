@@ -1,15 +1,17 @@
 import React from "react";
-import {Row, Col} from 'react-bootstrap';
+import {Row, Col, Container} from 'react-bootstrap';
+import './about.css';
 
 
 function About() {
 
   return (
+    <Container>
     <Row>
       <Col>
       <section id="about">
-      <h1 className='text-center'>About</h1>
-      <p class="lead mb-5">
+      <h1 className='text-center mt-5'>About</h1>
+      <p className="lead mb-5">
         Front-End Web Developer leveraging a background in psychology to build a more intuitive user experience on the
         web.
         Currently student of the KU Coding Bootcamp in Kansas, with newly developed skills in HTML5, CSS3, JavaScript,
@@ -26,6 +28,7 @@ function About() {
       </section>
     </Col>
     </Row>
+    </Container>
   );
 }
 

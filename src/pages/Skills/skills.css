@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Special+Elite&display=swap');
+
+img {
+    width: 100px;
+    height: 100px;
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.caption {
+    font-family: 'Special Elite', cursive;
+    font-size: large;
+}
