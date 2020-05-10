@@ -1,6 +1,5 @@
 import React from "react";
 import {Row, Col, Container} from 'react-bootstrap';
-import './about.css';
 
 
 function About() {
@@ -26,6 +25,7 @@ function About() {
         part of a fast-paced, quality-driven team in order to build better experiences on the web.
       </p>
       </section>
+      <hr />
     </Col>
     </Row>
     </Container>

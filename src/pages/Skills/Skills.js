@@ -15,7 +15,7 @@ function Skills() {
 
   return (
     <section id='skills'>
-      <h1 className="text-center">Skills</h1>
+      <h1 className="text-center mt-5 mb-3">Skills</h1>
       <Container>
       <Row>
         <Col xs={3}>
@@ -60,8 +60,10 @@ function Skills() {
           <p className="text-center caption">React</p>
         </Col>
       </Row>
+      <hr />
       </Container>
     </section>
+    
   );
 }
 

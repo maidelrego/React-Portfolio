@@ -1,9 +1,14 @@
 html{
-    min-width: 100vh;
+	min-width: 100vh;
+	scroll-behavior: smooth;
 }
 
+@import url('https://fonts.googleapis.com/css2?family=Caveat+Brush&display=swap');
+
 h1 {
-	margin-bottom:40px;
-	font-size:3em;
-	text-transform:uppercase;
+	font-family: 'Caveat Brush', cursive;
+	color: black;
+	font-size: 4em; 
 }
+
+

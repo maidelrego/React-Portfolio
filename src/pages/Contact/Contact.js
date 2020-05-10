@@ -7,7 +7,7 @@ function Contact() {
     
     <section id="contact">
       <div className='hire'>
-      <div className='contactme mb-5'>Contact Me</div>
+      <h1 className='contactme mb-5'>Contact Me</h1>
 
       <form>
         <div className="field name-box">

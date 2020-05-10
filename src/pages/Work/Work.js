@@ -82,7 +82,7 @@ function Work() {
           </div>
         </Col>
       </Row>
-
+      <hr />
     </section>
     </Container>
 
