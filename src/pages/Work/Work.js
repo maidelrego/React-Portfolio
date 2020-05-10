@@ -2,7 +2,7 @@ import React from "react";
 import passGen from '../../images/password_generator.PNG'
 import quiz from '../../images/code_quiz.PNG'
 import planer from '../../images/day-planer.PNG'
-import weather from '../../images/weather-dashboard.PNG'
+import fitness from '../../images/fitness.PNG'
 import project1 from '../../images/project1.PNG'
 import project2 from '../../images/project2.PNG'
 import { Row, Col, Container } from 'react-bootstrap';
@@ -49,7 +49,7 @@ function Work() {
         </Col>
         <Col xs={6}>
           <div className="work-container">
-            <img src={weather} alt="" className="img-fluid image" />
+            <img src={fitness} alt="" className="img-fluid image" />
             <div className="middle">
               <a className="btn btn-info work-btn mr-3" target="blank" href="https://maidelrego.github.io/Wheather_Dashboard/" role="button">View Project</a>
               <a className="btn btn-info work-btn" target="blank" href="https://github.com/maidelrego/Wheather_Dashboard" role="button">View Code</a>
