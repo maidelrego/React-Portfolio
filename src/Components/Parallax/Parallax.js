@@ -1,17 +1,18 @@
-import React from 'react';
-import { Parallax } from 'react-parallax';
-import parallaxImg from '../../images/background.jpg'
-import MyNav from '../Nav/Nav.js';
-import { Row, Col } from 'react-bootstrap';
-import './parallax.scss';
+/* eslint-disable linebreak-style */
+import React from "react";
+import { Parallax } from "react-parallax";
+import parallaxImg from "../../images/background.jpg";
+import MyNav from "../Nav/Nav.js";
+import { Row, Col } from "react-bootstrap";
+import "./parallax.scss";
 
 
 
 
 const MyParallax = () => (
   <Row>
-    <Col>
-    <MyNav />
+    <Col className='p-0'>
+      <MyNav />
       <Parallax bgImage={parallaxImg} strength={700}>
         <div style={{ height: 860, width: 500 }}>
           <div className="frame">
