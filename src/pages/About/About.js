@@ -9,7 +9,7 @@ function About() {
       <Row>
         <Col>
           <section id="about">
-            <h1 className='text-center mt-5'>About</h1>
+            <h1 className='text-center headers mt-5'>About</h1>
             <p className="lead mb-5">
       Front-End Web Developer and effective team player that exceeds client and customer expectations
       in performance based environments. Very passionate about developing apps, with a focus on mobile-first

@@ -1,3 +1,9 @@
+.project-name {
+  font-family: 'Special Elite', cursive;
+  font-size: 1.6em;
+  color: #566473;
+}
+
 .work-container {
     position: relative;
   }
@@ -31,6 +37,3 @@
     opacity: 1;
   }
   
-  .work-btn {
-    width: 120px;
-  }

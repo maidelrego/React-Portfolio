@@ -8,7 +8,7 @@ import { Container } from "react-bootstrap";
 
 function App() {
   return (
-    <Container fluid>
+    <Container fluid className="p-0">
       <Parallax />
       <About />
       <Skills />
