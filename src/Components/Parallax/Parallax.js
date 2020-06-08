@@ -13,7 +13,7 @@ const MyParallax = () => (
   <Row>
     <Col className='p-0'>
       <MyNav />
-      <Parallax bgImage={parallaxImg} strength={800}>
+      <Parallax bgImage={parallaxImg} strength={700}>
         <div style={{ height: 860 }}>
           <div className="frame">
             <div className="line left"></div>
