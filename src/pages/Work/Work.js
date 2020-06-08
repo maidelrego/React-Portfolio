@@ -21,7 +21,7 @@ function Work() {
             <dl>
               <dt>Description</dt>
               <dd>Application that generates a random password based on user-selected criteria.</dd>
-              <dt>We Used</dt>
+              <dt>Technologies Used</dt>
               <dd>Vanilla JS</dd>
             </dl>
             <div className="work-container">
@@ -38,7 +38,7 @@ function Work() {
             <dl>
               <dt>Description</dt>
               <dd>An aplication used to study simple questions about coding bootcamp. 5 Questions total with a time of 75 seconds, u have to answer quick and get it right in order to get more points, if you answer wrong the application will substract 15 seconds of the time.</dd>
-              <dt>We Used</dt>
+              <dt>Technologies Used</dt>
               <dd>Vanilla JS</dd>
             </dl>
             <div className="work-container">
@@ -58,7 +58,7 @@ function Work() {
             <dl>
               <dt>Description</dt>
               <dd>Progressive Web App that will allow you to track your money fast and easy, also u can access this app anytime even offline.</dd>
-              <dt>We Used</dt>
+              <dt>Technologies Used</dt>
               <dd>Node/Express Web Server, MongoDb, PWA</dd>
             </dl>
             <div className="work-container">
@@ -74,7 +74,7 @@ function Work() {
             <dl>
               <dt>Description</dt>
               <dd>Allows the user to track a workout. Various attributes of the workout can be stored.</dd>
-              <dt>We Used</dt>
+              <dt>Technologies Used</dt>
               <dd>Node/Express Web Server, MongoDb, REST APIs</dd>
             </dl>
             <div className="work-container">
@@ -92,7 +92,7 @@ function Work() {
             <dl>
               <dt>Description</dt>
               <dd>The go-to site for finding your favorite drinks!, Drinks recipe API search</dd>
-              <dt>We Used</dt>
+              <dt>Technologies Used</dt>
               <dd>jQuery, APIs, UIKIT</dd>
             </dl>
             <div className="work-container">
@@ -114,7 +114,7 @@ function Work() {
                 the user will be able to create an account or login to an existing one, to submit their symptoms
                 that could be related to Coronavirus. Based on their responses
                 they will be given information on the best steps to move forward.</dd>
-              <dt>We Used</dt>
+              <dt>Technologies Used</dt>
               <dd>Node/Express Web Server, SQL Database, Boostrap 4</dd>
             </dl>
             <div className="work-container">
@@ -133,7 +133,7 @@ function Work() {
             <dl>
               <dt>Description</dt>
               <dd>The application is desgined for the small buisness owner, "Campbell Wood Designs", to interact with the public. The public will be able to view the services offered, choose options and request a quote.</dd>
-              <dt>We Used</dt>
+              <dt>Technologies Used</dt>
               <dd>React, Node/Express Web Server, MongoDb, React-Bootstrap + MaterialUI.</dd>
             </dl>
             <div className="work-container">
