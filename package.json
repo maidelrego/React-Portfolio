@@ -5,7 +5,7 @@
   "dependencies": {
     "bootstrap": "^4.4.1",
     "mdbreact": "^4.26.0",
-    "node-sass": "^4.14.1",
+    "node-sass": "^7.0.0",
     "parallax": "0.0.0",
     "react": "^16.6.3",
     "react-bootstrap": "^1.0.1",
