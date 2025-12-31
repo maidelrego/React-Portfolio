@@ -5,14 +5,14 @@
   "dependencies": {
     "bootstrap": "^4.4.1",
     "mdbreact": "^4.26.0",
-    "node-sass": "^4.14.1",
+    "node-sass": "^9.0.0",
     "parallax": "0.0.0",
     "react": "^16.6.3",
     "react-bootstrap": "^1.0.1",
     "react-dom": "^16.6.3",
     "react-parallax": "^3.0.3",
     "react-router-dom": "^5.1.2",
-    "react-scripts": "^2.1.1"
+    "react-scripts": "^5.0.1"
   },
   "scripts": {
     "start": "react-scripts start",
@@ -30,7 +30,7 @@
   ],
   "devDependencies": {
     "concurrently": "^4.1.0",
-    "lint": "^0.7.0",
+    "lint": "^1.1.2",
     "nodemon": "^1.18.7",
     "prettier": "^2.0.2"
   }
